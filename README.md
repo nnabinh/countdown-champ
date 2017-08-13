@@ -1,3 +1,8 @@
+## Screenshot
+![alt text](https://user-images.githubusercontent.com/10094591/29250778-71d3d444-8083-11e7-88b7-eaf3e399b2de.png)
+
+
+## ---------------
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Folder Structure
@@ -69,7 +74,4 @@ yarn add react-router
 ```
 
 This works for any library, not just `react-router`.
-
-Screenshot:
-![alt text](https://user-images.githubusercontent.com/10094591/29250778-71d3d444-8083-11e7-88b7-eaf3e399b2de.png)
 
